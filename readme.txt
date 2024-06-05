@@ -1,3 +1,3 @@
-Git is a good ware.
-Git is a free ware.
-modify
+Git is good.
+Git is a wide and free ware.
+
