@@ -1,3 +1,3 @@
 Git is a distributed version control system.
 GIt track changes
-GIT
+GIT is a good ware.
