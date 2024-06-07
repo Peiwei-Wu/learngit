@@ -1,2 +1,2 @@
 This is a git liscence.
-Git test1.
+Git test2.
